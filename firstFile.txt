@@ -3,3 +3,5 @@ Hello there this is my first git repo.
 ## My commit as second user
 
 ## Commit user 1, added some text merged is "e049359".
+
+## My new changes.
